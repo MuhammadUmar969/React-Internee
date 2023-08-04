@@ -1,0 +1,25 @@
+.card {
+    height: 550px;
+    width: 500px;
+    background-color: whitesmoke;
+    padding: 2rem;
+    border-radius: 1rem;
+    position: relative;
+    border: 1px solid black;
+  }
+
+  .timer-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #f0f0f0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .timer {
+    margin: 0;
+  }
